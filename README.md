@@ -37,5 +37,5 @@ On this site I present my experience gained during the course and the self-studi
  # My test cases and bug reports for mediamarkt.pl examples
  Please be advised that test cases and bug reports were created for educational purposes only, 
  without access to the specifications and requirements of the website owner. Therefore, the presented bugs should be treated as subjective.
- - Test cases(https://docs.google.com/spreadsheets/d/1YYEe4BmYnAp0xh4HNB-LQ7BNCpNe7eExcVWjo_d5Ra4/edit?usp=sharing)
- - Bug reports(https://docs.google.com/spreadsheets/d/133BCCAcXXnmDFVJC8W2GSy1tne7BdYrZaM_C6jSVXZs/edit?usp=sharing)
+ - [Test cases](https://docs.google.com/spreadsheets/d/1YYEe4BmYnAp0xh4HNB-LQ7BNCpNe7eExcVWjo_d5Ra4/edit?usp=sharing)
+ - [Bug reports](https://docs.google.com/spreadsheets/d/133BCCAcXXnmDFVJC8W2GSy1tne7BdYrZaM_C6jSVXZs/edit?usp=sharing)
