@@ -34,8 +34,12 @@ On this site I present my experience gained during the course and the self-studi
  # Certificates
  - [Software Development Academy - Software Tester](https://app.diplomasafe.com/pl-PL/s/0c6444e8/7c9b7cab)
  - [Software Development Academy - SCRUM workshops](https://app.diplomasafe.com/pl-PL/s/e15ddea3/f15e0c35)
- # My test cases and bug reports for mediamarkt.pl examples
+ # My test cases and bug reports examples
  Please be advised that test cases and bug reports were created for educational purposes only, 
  without access to the specifications and requirements of the website owner. Therefore, the presented bugs should be treated as subjective.
- - [Test cases](https://docs.google.com/spreadsheets/d/1YYEe4BmYnAp0xh4HNB-LQ7BNCpNe7eExcVWjo_d5Ra4/edit?usp=sharing)
- - [Bug reports](https://docs.google.com/spreadsheets/d/133BCCAcXXnmDFVJC8W2GSy1tne7BdYrZaM_C6jSVXZs/edit?usp=sharing)
+ - [Test cases for mediamarkt.pl](https://docs.google.com/spreadsheets/d/1YYEe4BmYnAp0xh4HNB-LQ7BNCpNe7eExcVWjo_d5Ra4/edit?usp=sharing)
+ - [Bug reports for mediamarkt.pl](https://docs.google.com/spreadsheets/d/133BCCAcXXnmDFVJC8W2GSy1tne7BdYrZaM_C6jSVXZs/edit?usp=sharing)
+  # My automated API tests examples
+  ## Trello API
+  Below you can download the environment, collection and test run result exported from Postman.
+  - [Automated Postman Trello API tests](https://drive.google.com/drive/folders/1w0Mx2wsBMRZAN-tCXIhhB5tKZWrXWw3C?usp=sharing)
