@@ -4,7 +4,7 @@ My name is Grzegorz Juszczak. I graduated from AGH University of Science and Tec
 I have a master's degree in Power Engineering. At the moment I work as an electrical installations designer. 
 Recently I got interested in software testing and made a decision to change my profession.
 In December 2020 I began Software Tester training course at Software Development Academy and completed it in March 2021. 
-My next step is to obtain ISTQB FL certification. I will take the exam on 21th April, 2021.
+On 21th April, 2021 I passed the ISTQB FL exam.
 At the same time, my goal is to further develop my testing knowledge, technical skills and as a result, became software tester. 
 On this site I present my experience gained during the course and the self-studies and researches.
 # Courses
@@ -34,6 +34,7 @@ On this site I present my experience gained during the course and the self-studi
  # Certificates
  - [Software Development Academy - Software Tester](https://app.diplomasafe.com/pl-PL/s/0c6444e8/7c9b7cab)
  - [Software Development Academy - SCRUM workshops](https://app.diplomasafe.com/pl-PL/s/e15ddea3/f15e0c35)
+ - ISTQB FL - exam passed on 21 April 2021.
  # My test cases and bug reports examples
  Please be advised that test cases and bug reports were created for educational purposes only, 
  without access to the specifications and requirements of the website owner. Therefore, the presented bugs should be treated as subjective.
