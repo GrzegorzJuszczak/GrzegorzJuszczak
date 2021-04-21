@@ -5,8 +5,8 @@ I have a master's degree in Power Engineering. At the moment I work as an electr
 Recently I got interested in software testing and made a decision to change my profession.
 In December 2020 I began Software Tester training course at Software Development Academy and completed it in March 2021. 
 On 21th April, 2021 I passed the ISTQB FL exam.
-At the same time, my goal is to further develop my testing knowledge, technical skills and as a result, became software tester. 
-On this site I present my experience gained during the course and the self-studies and researches.
+My next step is to further develop my testing knowledge, technical skills and as a result, became software tester. 
+On this site I present my experience gained during the course, the self-studies and researches.
 # Courses
  - [Software Development Academy - Software Tester](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
  - [Software Development Academy - SCRUM workshops](https://sdacademy.pl/)
