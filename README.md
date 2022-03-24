@@ -8,10 +8,10 @@ in completing the Software Tester practical course and obtaining ISTQB Foundatio
 I currently work as a Test Automation Enginner and additionally in my free time 
 I develop my skills by doing online courses and working on small projects which are listed below.  
 # Courses
- - [Software Development Academy - Software Tester](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
+ - [Software Development Academy - Software Tester](https://sdacademy.pl/kursy/software-tester/)
  - [Software Development Academy - SCRUM workshops](https://sdacademy.pl/)
- - [Kurs Java dla testerów oprogramowania](https://testeroprogramowania.pl/index.php/java-darmowy-kurs/)
- - [GIT - kurs dla początkujących](https://kursy.testeroprogramowania.pl/product/git-kurs-dla-poczatkujacych/)
+ - [Java for Software Testers](https://testeroprogramowania.pl/index.php/kurs-java-dla-testera/)
+ - [GIT - for beginners](https://testeroprogramowania.pl/)
  - [BDD Cucumber dla poczatkujacych](https://www.udemy.com/course/bdd-cucumber-dla-poczatkujacych/)
  - [Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
  - [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman)
