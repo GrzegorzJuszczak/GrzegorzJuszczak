@@ -12,9 +12,9 @@ I develop my skills by doing online courses and working on small projects which 
  - [Software Development Academy - SCRUM workshops](https://sdacademy.pl/)
  - [Java for Software Testers](https://testeroprogramowania.pl/index.php/kurs-java-dla-testera/)
  - [GIT - for beginners](https://testeroprogramowania.pl/)
- - [BDD Cucumber dla poczatkujacych](https://www.udemy.com/course/bdd-cucumber-dla-poczatkujacych/)
- - [Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
- - [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman)
+ - [BDD Cucumber - for beginners](https://www.udemy.com/course/bdd-cucumber-dla-poczatkujacych/)
+ - [Selenium Java from basics](https://www.udemy.com/course/kurs-selenium-java/)
+ - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman)
  - [Selenium WebDriver with Java - Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
  - [Rest API Testing (Automation) - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)
 # Technical skills
